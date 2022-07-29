@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Muctar';
+    src: url('fonts/Muctar.eot');
+    src: url('fonts/Muctar.eot') format('embedded-opentype'),
+         url('fonts/Muctar.woff2') format('woff2'),
+         url('fonts/Muctar.woff') format('woff'),
+         url('fonts/Muctar.ttf') format('truetype'),
+         url('fonts/Muctar.svg#Muctar') format('svg');
+}
+@font-face{
+    font-family: 'robo';
+    src:url('../font/RobotoSlab-Light.ttf') format('truetype'),
+}

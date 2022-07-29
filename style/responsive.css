@@ -1,0 +1,261 @@
+@media screen and (max-width:996px) {
+    header .headerTop .center {
+        justify-content: space-around;
+    }
+
+    header .headerBottom .center {
+        width: 960px;
+    }
+
+    .banner .center {
+        width: 996px;
+    }
+
+    .banner .center .Description {
+        width: 332px;
+    }
+
+    .banner .center img {
+        margin-left: 40px;
+    }
+
+    .banner .center .Description {
+        margin-left: 20px;
+    }
+
+    .banner .center .black {
+        right: 26px;
+    }
+
+    .Introduction .center {
+        width: 996px;
+    }
+
+    .Introduction .center ul li.shose {
+        margin-left: 50px;
+    }
+
+    .Introduction .center ul li.tishert {
+        margin-left: 49px;
+    }
+
+    .Introduction .center ul li.short {
+        margin-left: 2px;
+    }
+
+    .productsTitle h2 {
+        margin: 0 0 0 40px;
+    }
+
+    .products .center ul.list1 li:nth-child(1) {
+        margin-left: 50px;
+    }
+
+    .products .center ul.list1 li {
+        margin-right: 50px;
+    }
+
+    .products .center ul.list2 li:nth-child(1) {
+        margin-left: 50px;
+    }
+
+    .products .center ul.list2 li {
+        margin-right: 50px;
+    }
+
+    footer .center {
+        width: 996px;
+    }
+
+    footer .center ul li {
+        margin-left: 49px;
+    }
+
+    .productsTitle {
+        width: 996px;
+    }
+}
+
+@media screen and (max-width:800px) {
+    header .headerTop .center {
+        justify-content: space-around;
+        width: 800px;
+    }
+
+    header .headerBottom .center {
+        width: 760px;
+    }
+
+    header .headerBottom .center ul li {
+        font-size: 17px;
+        margin-top: 12px;
+    }
+
+    header .headerBottom .center ul li::after {
+        left: -9px;
+        top: 5px;
+    }
+
+    .banner .center {
+        width: 800px;
+    }
+
+    .banner .center img {
+        width: 240px;
+    }
+
+    .banner .center .Description {
+        width: 210px;
+        margin-left: 20px;
+    }
+
+    .banner .center .Description h2 {
+        font-size: 37px;
+    }
+
+    .banner .center .Description h3 {
+        font-size: 37px;
+    }
+
+    .banner .center .Description p {
+        font-size: 16px;
+        margin-top: 7px;
+    }
+
+    .Introduction .center {
+        width: 800px;
+    }
+
+    .Introduction .center ul li.shose img {
+        max-width: 150px;
+    }
+
+    .Introduction .center ul li.shose {
+        width: 250px;
+        margin-left: 20px;
+    }
+
+    .Introduction .center ul li.tishert {
+        margin-left: 15px;
+        width: 230px;
+    }
+
+    .Introduction .center ul li.short {
+        width: 210px;
+        margin-left: 52px;
+    }
+
+    .Introduction .center ul li.short strong {
+        margin-right: 22px;
+    }
+
+    .Introduction .center ul li.short span {
+        margin-right: 30px;
+    }
+
+    .Introduction .center ul li.short button {
+        margin-right: 26px;
+    }
+
+    .Introduction .center ul li.shose strong {
+        margin-right: 13px;
+    }
+
+    .Introduction .center ul li.shose span {
+        margin-right: 33px;
+    }
+
+    .Introduction .center ul li.shose button {
+        margin-right: 30px;
+    }
+
+    .Introduction .center ul li.tishert strong {
+        margin-right: 9px;
+    }
+
+    .Introduction .center ul li.tishert span {
+        margin-right: 15px;
+    }
+
+    .Introduction .center ul li.tishert button {
+        margin-right: 19px;
+    }
+
+    .productsTitle h2 {
+        margin: 0 0 0 40px;
+    }
+
+    .products .center ul.list1 li:nth-child(1) {
+        margin-left: 25px;
+    }
+
+    .products .center ul.list1 li img.shose {
+        max-width: 230px;
+        max-height: 140px;
+        margin: 20px 0 0 46px;
+    }
+
+    .products .center ul.list1 li {
+        margin-right: 25px;
+        width: 227px;
+    }
+
+    .products .center ul.list2 li:nth-child(1) {
+        margin-left: 25px;
+    }
+
+    .products .center ul.list2 li {
+        margin-right: 25px;
+        width: 227px;
+    }
+
+    .products .center ul.list2 li span {
+        margin: 16px 0 0 36px;
+    }
+
+    .products .center ul.list2 li button {
+        margin-top: 15px;
+    }
+
+    .products .center ul.list1 li span {
+        margin: 16px 0 0 36px;
+    }
+
+    .products .center ul.list1 li button {
+        margin-top: 15px;
+    }
+
+    footer .center {
+        width: 800px;
+    }
+
+    footer .center ul li {
+        margin-right: -63px;
+    }
+
+    .productsTitle {
+        width: 800px;
+    }
+
+    .end strong {
+        margin-right: 220px;
+    }
+}
+
+@media screen and (max-width:768px) {
+    header .headerBottom .center {
+        width: 738px;
+    }
+    .banner .center img {
+        margin-left: 20px;
+    }
+    .products .center ul.list1 li:nth-child(1) {
+        margin-left: 17px;
+    }
+    .products .center ul.list2 li:nth-child(1) {
+        margin-left: 17px;
+    }
+    .end strong {
+        margin-right: 268px;
+    }
+}
